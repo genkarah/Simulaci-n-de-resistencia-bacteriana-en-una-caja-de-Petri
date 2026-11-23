@@ -1,5 +1,5 @@
 # Resistencia-bacteriana-en-una-caja-de-Petri
-El objetivo de este modelo es simular y visualizar la mutación y adaptación de antibiótico sobre la bacteria Streptococcus pyogenes (estreptococo del grupo A) en una caja de Petri. El propósito es visualizar la evolución de está bacteria dependiendo a como se administre el tratamiento sugerido.
+El objetivo de este modelo es simular y visualizar la mutación y adaptación de antibiótico sobre la bacteria Streptococcus pyogenes (estreptococo del grupo A) en una caja de Petri. Se llevará a cabo mediante un modelo matemático y un autómata celular, la dinámica poblacional de bacterias sensibles y resistentes a eritromicina, tomando como referencia la evidencia publicada sobre Streptococcus pyogenes, para explorar conceptualmente cómo diferentes intensidades de inhibición pueden modificar la composición de una población bacteriana.
 
 
 ## DATOS
